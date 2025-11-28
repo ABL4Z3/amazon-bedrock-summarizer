@@ -1,4 +1,5 @@
 PDF Summarizer with Amazon Bedrock & Claude 3.7
+
 A generative AI application that summarizes and answers questions about PDF documents using Amazon Bedrock, Claude 3.7 Sonnet, and Streamlit.
 
 This project demonstrates how to use the Bedrock Converse API to send PDF document bytes directly to the model, eliminating the need for external OCR or text extraction libraries.
